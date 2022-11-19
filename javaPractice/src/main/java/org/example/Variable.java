@@ -12,6 +12,11 @@ public class Variable {
         float f = 162.5f;
         double dbl = 5.7;
         char name = 'H';
+        short age = 22;
+        boolean h = true;
+        long cnic = 3530287978855l;
+        String name1 = "Hasnain";
         System.out.println(f + " "+ dbl  + " " + name);
+        System.out.println(age + " "+ name1  + " " + cnic);
     }
 }
