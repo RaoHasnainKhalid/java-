@@ -12,7 +12,7 @@ public class PrecedenceAndAssociativity {
         int b = 8/4*2+4-2;
         // output (6)
         System.out.println(b);
-        
+
 
     }
 }
