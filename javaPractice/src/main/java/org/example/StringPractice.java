@@ -55,5 +55,7 @@ public class StringPractice {
         System.out.println(name.equals("Hasnain     "));
         System.out.println(name.equalsIgnoreCase("HASNAIN     "));
 
+        //Escape Sequence (\\ , \t , \n )
+        System.out.println("My\tName\tIs\nHasnain\tKhalid.");
     }
 }
